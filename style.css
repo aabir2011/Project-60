@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(yellow,orange,orangered);
+    text-align: center;
+}
+img{
+width:30%;
+}
+h4{
+    font-family: cursive;
+}
+ul { 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:yellow;
+}
+
+li {
+  float: left;
+}
+
+li {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+html{
+    scroll-behavior:smooth;
+}
+#valmiki{
+    transition: transform.2s;
+}
+#valmiki:hover{
+    transform: scale(1.1);
+}
+#envelope{
+    width:20px;
+    height: 20px;
+    margin-right:10px;
+    margin-top:30px;
+}
+cite{
+    font-size: 20px;
+    font-weight:1000;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+#camera{
+    width:20px;
+    height: 20px;
+     margin-right:10px;
+    margin-top:20px;   
+}
